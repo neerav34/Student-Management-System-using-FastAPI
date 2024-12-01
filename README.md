@@ -9,7 +9,9 @@ This project is a Student Management System built using FastAPI and MongoDB Atla
 
 ## Tech Stack
 -> Backend Framework: FastAPI
+
 -> Database: MongoDB Atlas
+
 -> Deployment Platforms: Render, AWS, and others
 
 ## Endpoints
